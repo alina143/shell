@@ -1,2 +1,2 @@
 #!/bin/bash/
-echo $(ls -laR | grep "^-" | wc)
+echo $ls -laR | grep "^-" | wc
